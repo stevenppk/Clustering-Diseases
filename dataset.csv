@@ -1,0 +1,32 @@
+Disease,Symptom,Blood Condition,WBC,RBC
+diabetes,shortness of breath,high blood glucose,11000,4700
+pneumonia,cough,Bacteria in the bloodstream,2500,4700
+asthma,cough,lack of oxygen in blood,11000,5000
+anemia,dizziness,low hemoglobin,4000,3000
+chronic kidney failure,nausea,"impure blood
+",11000,7000
+hepatitis C,chill,high electrolytes count,2500,8000
+failure heart,fatigue,high blood pressure,11000,9000
+hepatitis,transaminitis,high electrolytes count,2500,6500
+hepatitis B,yellow sputum,high electrolytes count,2500,8000
+kidney disease,shortness of breath,impure blood,11000,7000
+diabetes,pain chest,high blood glucose,11500,5000
+diabetes,vomiting,high blood glucose,12000,6100
+pneumonia,green sputum,Bacteria in the bloodstream,3000,4900
+pneumonia,chill,Bacteria in the bloodstream,4500,6000
+asthma,chest tightness,lack of oxygen in blood,11500,5500
+asthma,productive cough,lack of oxygen in blood,12000,4500
+anemia,fatigue,low hemoglobin,9000,2700
+anemia,pain back,low hemoglobin,10500,3600
+chronic kidney failure,shortness of breath,high electrolytes count,10000,7400
+chronic kidney failure,fever,high electrolytes count,12000,7200
+hepatitis C,ache,Bacteria in the bloodstream,3000,7700
+hepatitis C,fever,Bacteria in the bloodstream,4500,7300
+failure heart,shortness of breath,high blood pressure,11500,8000
+failure heart,dyspnea,high blood pressure,12000,8500
+hepatitis,vomiting,high electrolytes count,3000,7000
+hepatitis,fever,high electrolytes count,4500,7500
+hepatitis B,abdominal tenderness,high electrolytes count,4500,7500
+hepatitis B,moan,high electrolytes count,3000,7600
+kidney disease,fever,impure blood,12000,7500
+kidney disease,bleeding,impure blood,11500,7200
